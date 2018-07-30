@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Optional and optional chaining'/>
+        <page name='Tuplas'/>
+        <page name='Generic Functions'/>
+        <page name='Generic Types'/>
+        <page name='Type constraints'/>
+        <page name='Funciones de operador'/>
+        <page name='Bloques'/>
+        <page name='Enums'/>
+        <page name='Classes, Structs and Properties'/>
+        <page name='Inicialización'/>
+        <page name='Desinicialización'/>
+    </pages>
+</playground>
